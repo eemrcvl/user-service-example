@@ -1,0 +1,11 @@
+com\scriptingproject\userservice\UserServiceApplication.class
+com\scriptingproject\userservice\demo\domain\UserRepository.class
+com\scriptingproject\userservice\demo\utilties\SecurityConfig.class
+com\scriptingproject\userservice\demo\service\UserService.class
+com\scriptingproject\userservice\demo\domain\User.class
+com\scriptingproject\userservice\demo\service\implementation\UserServiceImplementation.class
+com\scriptingproject\userservice\demo\service\ProductService.class
+com\scriptingproject\userservice\demo\controller\UserRestController.class
+com\scriptingproject\userservice\demo\domain\Product.class
+com\scriptingproject\userservice\demo\domain\ProductRepository.class
+com\scriptingproject\userservice\demo\service\implementation\ProductServiceImplementation.class
